@@ -14,7 +14,7 @@ The app is a portable implementation of the algorithm described in the paper [De
 ![Homescreen](./Screenshots/trackbeat_homescreen.png?raw=true "Homescreen")
 ![Action1](./Screenshots/trackbeat_samson1.png?raw=true "Trackbeat in Action")
 ![Action2](./Screenshots/trackbeat_samson2.png?raw=true "Trackbeat in Action")
-![Finalscreen](./Screenshots/trackbeat_homescreen.png?raw=true "Final screen")
+![Finalscreen](./Screenshots/trackbeat_finalscreen.png?raw=true "Final screen")
 
 ## Credits
 
