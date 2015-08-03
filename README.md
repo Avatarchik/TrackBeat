@@ -9,6 +9,13 @@ The app is a portable implementation of the algorithm described in the paper [De
 - [EJML](http://ejml.org/wiki/index.php?title=Main_Page)
 - [JTransforms](https://sites.google.com/site/piotrwendykier/software/jtransforms)
 
+## Screenshots
+
+![Homescreen](./Screenshots/trackbeat_homescreen.png?raw=true "Homescreen")
+![Action1](./Screenshots/trackbeat_samson1.png?raw=true "Trackbeat in Action")
+![Action2](./Screenshots/trackbeat_samson2.png?raw=true "Trackbeat in Action")
+![Finalscreen](./Screenshots/trackbeat_homescreen.png?raw=true "Final screen")
+
 ## Credits
 
 This work was done as part of the course requirements for [CS290I course on Mobile Imaging, instructed by Prof. Matthew Turk at UCSB in the Winter of 2015](http://www.cs.ucsb.edu/~mturk/imaging/). If you go to this link, you can see that we won the best project award for this class. Yay !!
