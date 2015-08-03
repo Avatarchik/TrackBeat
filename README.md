@@ -5,9 +5,9 @@ The app is a portable implementation of the algorithm described in the paper [De
 
 ## Dependencies
 
-- OpenCV
+- [OpenCV for Android](http://opencv.org/platforms/android.html)
 - [EJML](http://ejml.org/wiki/index.php?title=Main_Page)
-- JTransforms(https://sites.google.com/site/piotrwendykier/software/jtransforms)
+- [JTransforms](https://sites.google.com/site/piotrwendykier/software/jtransforms)
 
 ## Credits
 
