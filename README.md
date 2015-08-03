@@ -20,6 +20,11 @@ The app is a portable implementation of the algorithm described in the paper [De
 
 This work was done as part of the course requirements for [CS290I course on Mobile Imaging, instructed by Prof. Matthew Turk at UCSB in the Winter of 2015](http://www.cs.ucsb.edu/~mturk/imaging/). If you go to this link, you can see that we won the best project award for this class. Yay !!
 
+Developer Team:
+- [Rohan Jain](mailto: 4rohanjain@gmail.com)
+- [Praveen Nayak](mailto: praveen.mnayak@gmail.com)
+- Samson Svendson
+
 ## Note
 
 We might have inadvertantly used some pictures off the internet without acquiring necessary permissions. Kindly let us know if you are the owner of one of these pictures and want us to take it down.
