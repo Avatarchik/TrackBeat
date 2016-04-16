@@ -3,6 +3,10 @@
 TrackBeat is an Android application to extract human pulse information just from a video of the Human head. It extracts the motion of the head caused by rythmic cardiac activity and outputs the dominant frequency of this periodic-like motion. All this is optimized to work on a constrained computing platform of an Android Phone.
 The app is a portable implementation of the algorithm described in the paper [Detecting pulse from head motions in video](http://people.csail.mit.edu/mrub/vidmag/papers/Balakrishnan_Detecting_Pulse_from_2013_CVPR_paper.pdf).
 
+## Demo
+
+[Youtube link](https://www.youtube.com/watch?v=NUb1GDgm-aw)
+
 ## Dependencies
 
 - [OpenCV for Android](http://opencv.org/platforms/android.html)
